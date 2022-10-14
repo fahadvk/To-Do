@@ -1,0 +1,26 @@
+
+.description{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-end;
+    flex-flow: column-reverse;
+   
+    
+}
+.name{
+    /* background-color: #2b352b; */
+margin-top: 1rem;
+margin-bottom: 1rem;
+    border-radius: 1rem;
+height: fit-content;
+width: max-content;
+}
+.text{
+    color: white;
+   
+}
+.buttons{
+    display: flex;
+    gap: 1rem;
+}

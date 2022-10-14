@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+   width: 60%;
+   margin-left: 20rem;
+min-height: 80px;
+background-color: rgb(67, 43, 91);
+   border-radius: 1.2rem;
+   margin-bottom: 2rem;
+
+}
+.inputControl{
+    size: 25rem;
+    border-radius: 1.2rem;
+    
+}
+.title{
+    height: 3rem;
+    width: 3rem;
+    margin-left: 1rem;
+    text-size-adjust: inherit;
+   font-size: larger;
+   font-weight: 400;
+   color: aliceblue;
+   border-radius: 1.2rem;
+}
+.formtext {
+margin-left: 2rem;
+box-sizing: content-box;
+width: 15rem;
+height: 2rem;
+border-radius: 0.8rem;
+margin-right: 3rem;
+
+}
+.submit{
+    margin-left: 5rem;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: 1rem;
+box-sizing: border-box;
+width: 4.3rem;
+
+ 
+}
+.submit :hover{
+    
+    background-color: rgb(145, 100, 189);
+    
+}
+
+.date{
+ margin-left: 2rem;
+ border-radius: 0.5rem;
+ width: 13rem;
+ height: 2rem;
+}

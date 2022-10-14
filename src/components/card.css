@@ -1,0 +1,20 @@
+.card{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0,  0,  0, alpha 3);
+    margin: 5 rem 3 rem;
+    background-color: #222825;
+    gap: 6rem;
+    border: 2rem;
+    width: 60%;
+    margin-left: 20rem; 
+    border-radius: 2rem;
+    margin-bottom: 2rem;    
+    
+}
+.cardContainer{
+    background-color: dimgrey;
+  
+}
